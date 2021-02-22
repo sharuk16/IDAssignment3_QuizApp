@@ -131,3 +131,21 @@ h2 {
   opacity: 1;
   right: 0;
 }
+
+@media only screen and (max-width: 600px) {
+  
+  .container{
+      width: 380px;
+  }
+  #loader {
+    margin-top: 3rem;  
+  }
+}
+@media only screen and (max-width: 375px) {
+  p{
+      font-size: 14px;
+  }
+  .container{
+      width: 350px;
+  }
+}
