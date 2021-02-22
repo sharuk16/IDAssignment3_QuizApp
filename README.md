@@ -13,10 +13,10 @@ Beautiful quiz app testing users general knowledge. It shows the number of quest
 - Display of highscores
 
 # Technologies Used
--CSS
--HTML
--API - https://opentdb.com/api_config.php
--JAVASCRIPT
+- CSS
+- HTML
+- API - https://opentdb.com/api_config.php
+- JAVASCRIPT
 
 # Testing
 - Automated Testing
